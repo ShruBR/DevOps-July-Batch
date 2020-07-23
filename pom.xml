@@ -14,6 +14,13 @@
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
       <sonar.login>faff74d8cb559ee0ed1500446f12b3918db42332</sonar.login>
   </properties>
+	
+  <properties>
+  	<sonar.projectKey>ShruBR_DevOps-July-Batch</sonar.projectKey>
+  	<sonar.organization>shrubr</sonar.organization>
+  	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	<sonar.login>992172f80d3773a808770f209d49a4282f5fc9dc</sonar.login>
+  </properties>
     
   <dependencies>
     <dependency>
